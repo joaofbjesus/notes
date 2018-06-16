@@ -17,16 +17,16 @@ From [P1xt](https://github.com/P1xt/p1xt-guides/blob/master/faq.md)
 ## Power up your learning - make every minute count
 * When you're working through a book, type out the example code and do all the exercises.
 * When you're working through a course, do all the assignments.
-* When you're building a Project, include:
-  * a build process (like [gulp](http://gulpjs.com/)),
+
+## When you're building a Project
+### Use each project to demonstrate that you can deliver an optimized product and include:
+  * a build process to minimize assets(like [gulp](http://gulpjs.com/)),
   * at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you),
-  * a README.md file that clearly explains the project, and
-  * practice using [meaningful commit messages](http://chris.beams.io/posts/git-commit/)
-* Use each project to demonstrate that you can deliver an optimized product:
-  * Implement tests (as I mentioned above),
-  * use your build process to minimize assets,
   * use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and
   * have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
+  * a README.md file that clearly explains the project, and
+  * practice using [meaningful commit messages](http://chris.beams.io/posts/git-commit/)
+
 * As you learn, take the time to discuss what you're learning with others:
   * write blog posts,
   * spend time actively discussing code and concepts with other developers (of varying skill levels),
