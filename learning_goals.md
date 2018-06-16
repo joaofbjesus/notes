@@ -5,14 +5,17 @@ From [P1x](https://github.com/P1xt/p1xt-progress)
 ## 2018
 
 My  main goals are: 
-  A) 
-  B) 
+* A) 
+* B) 
   
 ## Progress
 
 Current Course: 
+
 Courses Completed:  
+
 Total Points earned: 
+
 
 | Date Finished | Activity      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
