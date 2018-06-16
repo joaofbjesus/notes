@@ -60,17 +60,7 @@ From [P1xt](https://github.com/P1xt/p1xt-guides/blob/master/faq.md)
 ## What should I be studying alongside the guides?
 There WILL be math. And, it's important. If the thought frightens you, or bores you, or has you thinking
 "this isn't for me", head to [Khan Academy](https://www.khanacademy.org/) right now, sign up, and start devoting 30 minutes a day. This is an investment that will pay off. I'm not making this up.
-## Should I work through a guide in order?
-Yes. Skip nothing, even if you think you already know it.
-If you need to "double up" for variety, do no more than two items from the guide
-simultaneously and don't add a third until you finish one of the two.
-Everything builds on everything else. Plus, if you try to do everything at once, you'll finish nothing - or
-end up "accidentally on purpose" skipping early foundational material because it was "too hard" and you moved on
-"just for now" which eventually morphed to "forever".
-## How long will this take me?
-I don't know? How lazy are you? How much time are you devoting to it?
-How often do you plan to decide "this is too hard" and waste a month or more
-surfing YouTube for an easier option?
+
 ## I'm stuck, what should I do?
 * Use the official docs.
 * Use MDN
@@ -78,11 +68,7 @@ surfing YouTube for an easier option?
 * Stack overflow should be a resource for ideas, not a crutch to help you avoid writing code yourself.
 * [Shay Howe](http://learn.shayhowe.com/) has a good overview of HTML and CSS if you need more than you got in the CS50 and MEAN stack course to feel comfortable with the projects.
 * If you're at a loss for how to figure out the design for a page you're building, reference [Google's Material Design documentation](https://material.google.com/). Try to become familar with it by the time you finish the list of resources in this post. It will save you from having shoddy looking pages.
-#### If you get lost. If this is too hard.
-* Buck up camper - no one said this was easy - it is WORTH IT though.
-* Figure it out. Ask for someone to point you in the right direction.
-* Don't Quit.
-* Don't Panic!
+
 ## How do I deploy a frontend project
 Here are some resources to help you learn how to use surge.sh, you could also use GitHub Pages or any
 other host you want, but figuring that out is up to you.
@@ -99,23 +85,6 @@ other host you want, but figuring that out is up to you.
 * [Material Design](https://material.google.com) - lean on this when you need a structure for creating a minimalistic but awesome looking site
 * [Material Palette](https://www.materialpalette.com/) - for selecting color schemes
 * [Wirify](https://www.wirify.com/) - for quickly turning a web page into a wireframe so you can see the big picture instead of all the graphics
-## I need some extra stuff to do on the side for more practice. Have any ideas?
-* sign up for https://www.codingame.com - finish every training challenge up through "very hard", for the hard and very hard challenges, you'll likely need to have worked down the main list in this post to the data structures book
-* learn [Sass](http://sass-lang.com/guide)
-* Join one of the Chingu cohorts that @tropicalchancer puts together and actively participate on one or more group projects
-* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/)  landing page
-* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
-* Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
-* Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
-* Project: Do one of the FCC projects not listed in this guide.
-* Goal: Contribute one pull request per month to an open source project of your choosing.
-## I really want some more advanced stuff for practice. Have any ideas?
-* pick a pet web development project you can code in a week and complete it
-* code an android application
-* learn golang or rust and complete any of the backend projects from FCC with that language as the backend language
-* redo any of the algorithmic type projects you've already completed from the list, in a language other than JavaScript
-* pick an open source project from [Code Triage](https://www.codetriage.com/) and contribute to fixing an open issue
-* code a flash cards application, for jotting quick notes you can use to quiz yourself later
-* hit hackerrank and complete the Project Euler problems
+
 ## Are there any additional free resources you'd recommend alongside the materials in the guides?
 [OpenStax](https://openstax.org/subjects) - Open Source textbooks on a variety of University level topics, check here if you want a reference math or physics textbook
