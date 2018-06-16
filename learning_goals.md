@@ -17,9 +17,9 @@ Courses Completed:
 Total Points earned: 
 
 
-| Date Finished | Activity      | Points | Links     |
-| ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| 01-03-2018    | Blog Post     | 15     | [Blog post kicking off Speedstudy](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c)    |
+| Date Finished | Activity | Points | Links |
+| ------------- | -------- | ------ | ----- |
+|               |          |        |       |
 
 
 ### Frontend Frameworks
