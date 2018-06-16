@@ -66,3 +66,23 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 *   Clone your favorite browser extension, or create one you wish existed.
 *   Clone your favorite mobile app, or create one you wish existed.
 *   Any project you want to build - the above are all just ideas for if you're stuck for an idea - really, just build what you want!
+
+## I need some extra stuff to do on the side for more practice. Have any ideas?
+* sign up for https://www.codingame.com - finish every training challenge up through "very hard", for the hard and very hard challenges, you'll likely need to have worked down the main list in this post to the data structures book
+* learn [Sass](http://sass-lang.com/guide)
+* Join one of the Chingu cohorts that @tropicalchancer puts together and actively participate on one or more group projects
+* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/)  landing page
+* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
+* Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
+* Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
+* Project: Do one of the FCC projects not listed in this guide.
+* Goal: Contribute one pull request per month to an open source project of your choosing.
+
+## I really want some more advanced stuff for practice. Have any ideas?
+* pick a pet web development project you can code in a week and complete it
+* code an android application
+* learn golang or rust and complete any of the backend projects from FCC with that language as the backend language
+* redo any of the algorithmic type projects you've already completed from the list, in a language other than JavaScript
+* pick an open source project from [Code Triage](https://www.codetriage.com/) and contribute to fixing an open issue
+* code a flash cards application, for jotting quick notes you can use to quiz yourself later
+* hit hackerrank and complete the Project Euler problems
