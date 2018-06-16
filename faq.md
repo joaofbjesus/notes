@@ -14,13 +14,9 @@ From [P1xt](https://github.com/P1xt/p1xt-guides/blob/master/faq.md)
 * Whenever you are doing a "Clone this" project - use only  assets you create yourself or that have copyrights which would allow you to use them.
 * Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
 
-## Power up your learning - make every minute count
-* When you're working through a book, type out the example code and do all the exercises.
-* When you're working through a course, do all the assignments.
-
 ## When you're building a Project
 ### Use each project to demonstrate that you can deliver an optimized product and include:
-  * a build process to minimize assets(like [gulp](http://gulpjs.com/)),
+  * a build process to minimize assets (like [gulp](http://gulpjs.com/)),
   * at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you),
   * use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and
   * have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
@@ -32,7 +28,11 @@ From [P1xt](https://github.com/P1xt/p1xt-guides/blob/master/faq.md)
   * spend time actively discussing code and concepts with other developers (of varying skill levels),
   * if you're comfortable with it - produce some helpful videos explaining topics that others might find daunting, and (most importantly) embrace the opportunity to help others one on one.
 
-**Important** You never know something so thoroughly as when you take the time to deeply consider it and explain it to someone else who might be struggling. Helping others doesn't just benefit them, it benefits you by increasing your understanding and mastery of the topic. Help people - you'll learn a lot in the process - you'll be a better developer for having done it.
+**Important:** You never know something so thoroughly as when you take the time to deeply consider it and explain it to someone else who might be struggling. Helping others doesn't just benefit them, it benefits you by increasing your understanding and mastery of the topic. Help people - you'll learn a lot in the process - you'll be a better developer for having done it.
+
+## Power up your learning - make every minute count
+* When you're working through a book, type out the example code and do all the exercises.
+* When you're working through a course, do all the assignments.
 
 ### For each item you should:
 * take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
