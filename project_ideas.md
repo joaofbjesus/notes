@@ -1,5 +1,5 @@
 ## Project ideas
-From [P1xt](https://github.com/P1xt/speedstudy)
+From [P1xt](https://github.com/P1xt/speedstudy) and [here](https://github.com/P1xt/p1xt-guides/blob/master/faq.md)
 
 *   Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.free-css.com/free-css-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 *   Complete any 5 projects from [100 Days of CSS](https://100dayscss.com/).
