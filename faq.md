@@ -29,8 +29,9 @@ From [P1xt](https://github.com/P1xt/p1xt-guides/blob/master/faq.md)
   * have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
 * As you learn, take the time to discuss what you're learning with others:
   * write blog posts,
-  spend time actively discussing code and concepts with other developers (of varying skill levels),
-  if you're comfortable with it - produce some helpful videos explaining topics that others might find daunting, and (most importantly) embrace the opportunity to help others one on one.
+  * spend time actively discussing code and concepts with other developers (of varying skill levels),
+  * if you're comfortable with it - produce some helpful videos explaining topics that others might find daunting, and (most importantly) embrace the opportunity to help others one on one.
+
 **Important** You never know something so thoroughly as when you take the time to deeply consider it and explain it to someone else who might be struggling. Helping others doesn't just benefit them, it benefits you by increasing your understanding and mastery of the topic. Help people - you'll learn a lot in the process - you'll be a better developer for having done it.
 
 ### For each item you should:
