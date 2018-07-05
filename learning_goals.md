@@ -26,7 +26,7 @@ Total Points earned:
 
 ## Courses CS
 
-Udacity
+**Udacity**
 
 [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 
@@ -34,7 +34,7 @@ Udacity
 
 [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
 
-Coursera
+**Coursera**
 
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 
