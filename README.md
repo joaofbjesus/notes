@@ -1,59 +1,14 @@
-# Notes
+# Mac Notes
+### Resizing Both Corners Of A Window
 
-## teste
+Hold the code `option` key while resizing a corner of a window and it will simultaneously and equivalently resize the opposite corner.
 
-| Ola 1 | Ola 2     |
-| :------------- | :------------- |
-| Item One       | Item Two       |
+### Access All Screen And Video Capture Options
 
+`Cmd+Shift+5` open up a panel with the five main options.
 
-- [ ] teste
+### Access System Information OS X
 
-**teste**
+On "About This Mac" hold down the option key the first option read `System information...`
 
-
-```<h1>teste</1>
-
-```
-
-*Ola*
-
-- ze
-- zeee
-
-Copyright (c)2021 Copyright Holder All Rights Reserved.
-
-'hfghfh'
-
-
-
-
-```
-~~coan~**cona fdsf fds dfdsfs**
-
-***conanoanonaona aononana***
-
->pardon my french
-
-`hahaha`
-```
-
-[Git github](www.google.com)
-
-- sdsfds
- - sdfsdf
-   - dfsdfsd
-   - sdas
-
-* sada
-  * sdfsdf
-    * sdfjns
-
-
-100. dfsdfsd
-- dfsdfsd
-
-1. dfsdfsd
-1. dfsdfsd
-1. dsfsdf
-1. dfsdfsd
+Access the System Information panel for details about hardware, software, and network.
