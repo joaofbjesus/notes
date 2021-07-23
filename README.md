@@ -1,6 +1,9 @@
-# Mac Notes
+# Notes
 
 [Markdown](https://github.com/joaofbjesus/notes/blob/91d0d7f4a97588f6009358a6d6cc389c1da767c9/exemploMarkdown.md)
+
+## Mac Notes
+
 ### Resizing Both Corners Of A Window
 
 Hold the code `option` key while resizing a corner of a window and it will simultaneously and equivalently resize the opposite corner.
